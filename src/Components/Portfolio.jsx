@@ -31,27 +31,15 @@ const imageAltText = "Working desk with a laptop and notebook";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My first project: Weather App",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Created using HTML, CSS and JavaScript. This project was a great way to practice working with APIs.",
+    url: "https://weather-application-rukwaro.netlify.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Portfolio website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+      "Created my portfolio website using BootStrap. This project was a great way to practice working with BootStrap.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
