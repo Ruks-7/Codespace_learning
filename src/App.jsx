@@ -29,7 +29,7 @@ const siteProps = {
   email: "irenerukwaro9@gmail.com",
   gitHub: "Ruks-7",
   instagram: "",
-  linkedIn: "Irene Rukwaro",
+  linkedIn: "https://www.linkedin.com/in/irene-rukwaro-88a78628a/",
   medium: "",
   twitter: "",
   youTube: "",
